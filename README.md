@@ -32,8 +32,8 @@ The model is trained to detect and classify cartons into these labels:
 |---|---|---|
 | ![](classes/sealed-001.jpg) | ![](classes/open-001.jpg) | ![](classes/torn-001.jpg) |
 
-| hole | hole-sealed | torn-sealed
-|---|---|
+| hole | hole-sealed | torn-sealed |
+|---|---|---|
 | ![](classes/hole-001.jpg) | ![](classes/hole-sealed-001.jpg) | ![](classes/torn-sealed-001.jpg) |
 
 
