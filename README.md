@@ -34,7 +34,7 @@ The model is trained to detect and classify cartons into these labels:
 
 | hole | hole-sealed | torn-sealed
 |---|---|
-| ![](classes/hole-001.jpg) | ![](classes/hole-sealed-001.jpg) | ![](classes/torn-sealed-001.jpg)
+| ![](classes/hole-001.jpg) | ![](classes/hole-sealed-001.jpg) | ![](classes/torn-sealed-001.jpg) |
 
 
 For sorting logic, the system treats **sealed** as pass (`"clear"`) and **open/torn/hole** as fail (`"defect"`).
