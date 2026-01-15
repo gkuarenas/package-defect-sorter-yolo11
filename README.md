@@ -70,7 +70,7 @@ For sorting logic, the system treats **sealed** as pass (`"clear"`) and **open/t
 
 ---
 
-## Hardware used (typical)
+## Hardware used 
 - ESP32-CAM (Wi-Fi camera module)
 - Arduino (for actuator/indicator control)
 - Servo motor (diverter)
@@ -81,7 +81,7 @@ For sorting logic, the system treats **sealed** as pass (`"clear"`) and **open/t
 
 ---
 
-## Software used (typical)
+## Software  
 - **Python 3**
   - OpenCV (`cv2`)
   - Ultralytics YOLO
